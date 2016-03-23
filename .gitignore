@@ -1,0 +1,10 @@
+.vs/
+Linnea.VC.opendb
+Linnea.sdf
+Linnea.sln
+Debug/**
+
+deps/
+Linnea/**
+!Linnea/*.h
+!Linnea/*.cpp
